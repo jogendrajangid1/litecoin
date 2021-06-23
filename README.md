@@ -1,0 +1,2 @@
+# litecoin
+litecoin CI/CD
